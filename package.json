@@ -21,10 +21,10 @@
   },
   "dependencies": {
     "gulp": "^4.0.0",
-    "http-proxy": "^1.16.2",
-    "path-to-regexp": "^2.1.0",
+    "http-proxy": "^1.17.0",
+    "path-to-regexp": "^2.4.0",
     "stream-to-promise": "^2.2.0",
-    "through2": "^2.0.3",
+    "through2": "^3.0.0",
     "vinyl-yaml-data": "^2.0.1"
   },
   "devDependencies": {
